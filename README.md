@@ -42,4 +42,4 @@ O projeto está estruturado com as seguintes classes e enums principais:
 ### Passos para execução via Terminal:
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/Victus98/gestao-projetos-e-equipes.git](https://github.com/Victus98/gestao-projetos-e-equipes.git)
